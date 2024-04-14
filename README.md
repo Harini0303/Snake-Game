@@ -24,10 +24,10 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/Harini0303/Snake-Game/assets/112405815/11544228-72ee-49bb-a836-71b60591267c)
 *Screenshot 1: Gameplay*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 *Screenshot 2: Game Over*
 
 ## Contributing
